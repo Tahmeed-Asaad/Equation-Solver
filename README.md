@@ -13,6 +13,8 @@
 
 * [Setup](#setup)
 
+* [Working Principle](#working-principle)
+
 ## Introduction
 
 This is an android app that can solve four types of mathematical equations. The project targets to build an equation solver that is versatile and can be useful for anyone dealing with mathematical equations.  This group project was built for an undergraduate academic course.
@@ -120,3 +122,7 @@ This is an android app that can solve four types of mathematical equations. The 
 
  ## Setup
   'EQUATION SOLVER.apk' should be downloaded to run the app on any android device. Android Studio should be used to build the whole project.
+  
+ ## Working Principle
+ 
+ This app solves equations by using the Bairstow Method, Gauss Jordan Method and Horner’s Rule. Linear equations, quadratic equations and polynomial equations are solved by using the Bairstow Method. Gauss Jordan Method is applied to find solutions of multiple variable equations. The graphical representation of the equations are done by using the Android Graph View library and Horner’s Rule. 
