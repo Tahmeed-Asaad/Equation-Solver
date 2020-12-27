@@ -119,4 +119,4 @@ This is an android app that can solve four types of mathematical equations. The 
  </div>
 
  ## Setup
-  'EQUATION SOLVER.apk' should be downloaded to run the app on any android device. Android Studio should be used to build the whole project
+  'EQUATION SOLVER.apk' should be downloaded to run the app on any android device. Android Studio should be used to build the whole project.
