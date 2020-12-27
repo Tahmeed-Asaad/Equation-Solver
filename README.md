@@ -43,7 +43,7 @@ This is an android app that can solve four types of mathematical equations. The 
 <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/1.png" height="60%">
+ <img src="DEMO_IMAGES/1.png" height="600">
 
  </div>
 
