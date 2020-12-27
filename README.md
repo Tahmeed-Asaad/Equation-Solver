@@ -54,14 +54,14 @@ This is an android app that can solve four types of mathematical equations. The 
  
 
 
- <img src="DEMO_IMAGES/2.png">
+ <img src="DEMO_IMAGES/2.png" height="600">
 
  </div>
  
  <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/3.png">
+ <img src="DEMO_IMAGES/3.png" height="600">
 
  </div>
 
@@ -69,14 +69,14 @@ This is an android app that can solve four types of mathematical equations. The 
 <div> 
  
 <h1>      </h1>
- <img src="DEMO_IMAGES/4.png">
+ <img src="DEMO_IMAGES/4.png" height="600">
 
  </div>
  
  <div> 
  
 <h1>      </h1>
- <img src="DEMO_IMAGES/5.png">
+ <img src="DEMO_IMAGES/5.png" height="600">
 
  </div>
 
@@ -84,7 +84,7 @@ This is an android app that can solve four types of mathematical equations. The 
 <div> 
  
 <h1>      </h1>
- <img src="DEMO_IMAGES/6.png">
+ <img src="DEMO_IMAGES/6.png" height="600">
 
  </div>
  
@@ -92,7 +92,7 @@ This is an android app that can solve four types of mathematical equations. The 
 <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/7.png">
+ <img src="DEMO_IMAGES/7.png" height="600">
 
  </div>
 
@@ -100,21 +100,21 @@ This is an android app that can solve four types of mathematical equations. The 
 <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/8.png">
+ <img src="DEMO_IMAGES/8.png" height="600">
 
  </div>
  
  <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/9.png">
+ <img src="DEMO_IMAGES/9.png" height="600">
 
  </div>
  
  <div> 
  <h1>      </h1>
 
- <img src="DEMO_IMAGES/10.png">
+ <img src="DEMO_IMAGES/10.png" height="600">
 
  </div>
 
